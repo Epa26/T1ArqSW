@@ -1,2 +1,4 @@
 # T1ArqSW
-Tarea1 arqui sw
+Tarea 1 del ramo Arquitectura de Software
+
+Elías Pizarro
